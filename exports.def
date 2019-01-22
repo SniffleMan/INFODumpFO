@@ -1,0 +1,4 @@
+LIBRARY	"INFODumpFO"
+EXPORTS
+FOSEPlugin_Query
+FOSEPlugin_Load
